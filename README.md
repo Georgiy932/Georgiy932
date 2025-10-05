@@ -10,6 +10,7 @@
 
 
 <br /><br />
+## 💻 Projects
 
 ## 💻 Projects
 
@@ -22,14 +23,15 @@
         />
     </a>
     
-    <a href="" align="right">
+    <a href="https://github.com/Georgiy932/Online-Electronics-Store" align="right">
         <img
             align="right"
             width="45%"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Georgiy932&repo=&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=2f2f2f&hide_border=true&locale=en"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=Georgiy932&repo=Online-Electronics-Store&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=2f2f2f&hide_border=true&locale=en"
         />
     </a>
 </div>
+<br clear="all" />
 <br /><br />
 
 ## 📈 My GitHub Stats
