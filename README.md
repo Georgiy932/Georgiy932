@@ -12,26 +12,16 @@
 <br /><br />
 ## 💻 Projects
 
-## 💻 Projects
-
-<div width="100%" align="center">
-    <a href="https://github.com/Georgiy932/Ai-telegram-bot-with-crypto-payment" align="left">
-        <img
-            align="left"
-            width="45%"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Georgiy932&repo=Ai-telegram-bot-with-crypto-payment&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=2f2f2f&hide_border=true&locale=en"
-        />
-    </a>
-    
-    <a href="https://github.com/Georgiy932/Online-Electronics-Store" align="right">
-        <img
-            align="right"
-            width="45%"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Georgiy932&repo=Online-Electronics-Store&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=2f2f2f&hide_border=true&locale=en"
-        />
-    </a>
+<div align="center">
+  <a href="https://github.com/Georgiy932/Ai-telegram-bot-with-crypto-payment">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgiy932&repo=Ai-telegram-bot-with-crypto-payment&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=2f2f2f&hide_border=true&locale=en"/>
+  </a>
+  <a href="https://github.com/Georgiy932/Online-Electronics-Store">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgiy932&repo=Online-Electronics-Store&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=2f2f2f&hide_border=true&locale=en"/>
+  </a>
 </div>
-<br clear="all" />
+
+
 <br /><br />
 
 ## 📈 My GitHub Stats
