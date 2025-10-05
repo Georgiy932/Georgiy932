@@ -10,7 +10,7 @@
 
 
 <br /><br />
-## 💻 Projects
+## 💻 My Best Projects
 
 <div align="center">
   <a href="https://github.com/Georgiy932/Ai-telegram-bot-with-crypto-payment">
